@@ -15,7 +15,7 @@ Use this if you're placing it inside of a `notice`, `spoiler`, or `box` tag.
 ```
 
 ## Avatars
-Avatars can be found [here.](https://github.com/ceIery/osu-collabs/tree/main/5wc-2021/avatars)
+Avatars can be found [here.](https://github.com/ceIery/osu-collabs/tree/main/5wc-2021/avatars%20v2)
 
 
 ## Source
